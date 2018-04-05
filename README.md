@@ -3,6 +3,7 @@
 ![license](https://img.shields.io/github/license/schdav/dotfiles.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/schdav/dotfiles.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/schdav/dotfiles.svg)
+![repo status](https://img.shields.io/badge/repo%20status-reupload-orange.svg)
 ## vimrc
 ### Requirements
 * [pathogen.vim](https://github.com/tpope/vim-pathogen)
