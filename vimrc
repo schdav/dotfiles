@@ -34,6 +34,8 @@ let mapleader=','
 autocmd! User GoyoEnter Limelight
 autocmd! User GoyoLeave Limelight!
 
+:nmap <Leader>i gg=G
+
 set backspace=indent,eol,start
 set belloff=all
 set history=100

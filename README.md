@@ -21,6 +21,8 @@ Copy `vimrc` to `~/.vimrc`
 `,` and `x` remove trailing spaces
 
 `,` and `f` toggle "focus mode"
+
+`,` and `i` fix indentation
 ## bashrc
 ### Prompt
 `10:10:00 david@macbook:~ $ ✔ `
