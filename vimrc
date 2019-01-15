@@ -6,6 +6,7 @@ set updatetime=250
 
 autocmd vimenter * NERDTree
 :nmap <silent> <C-W> :wincmd w <CR>
+:let NERDTreeShowHidden=1
 
 let g:airline#extensions#tabline#buffer_nr_show=1
 let g:airline#extensions#tabline#enabled=1
