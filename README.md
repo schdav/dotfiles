@@ -30,3 +30,11 @@ Copy `vimrc` to `~/.vimrc`
 Copy `bashrc` to `~/.bashrc`
 
 Copy `bash_profile` to `~/.bash_profile` (macOS only)
+## zshrc
+### Requirements
+* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [Dracula](https://github.com/dracula/zsh)
+* [bat](https://github.com/sharkdp/bat)
+* [exa](https://github.com/ogham/exa)
+### Prompt
+`10:10:00 david@macbook ~ ✔ `
