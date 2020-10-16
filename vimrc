@@ -4,7 +4,6 @@ filetype plugin indent on
 
 set updatetime=250
 
-autocmd vimenter * NERDTree
 :nmap <silent> <C-W> :wincmd w <CR>
 :let NERDTreeShowHidden=1
 
@@ -17,8 +16,8 @@ set noshowmode
 
 set termguicolors
 colorscheme gruvbox
-set background=dark
-let g:gruvbox_contrast_dark='soft'
+set background=light
+let g:gruvbox_contrast_light='hard'
 
 set cursorline
 set number
