@@ -49,3 +49,6 @@ set smartcase
 
 set smarttab
 set tabstop=2
+
+autocmd FileType markdown,text DittoOn
+:nmap <Leader>d :ToggleDitto

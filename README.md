@@ -9,6 +9,7 @@
 * [pathogen.vim](https://github.com/tpope/vim-pathogen)
 * [Powerline fonts](https://github.com/powerline/fonts)
 * [The NERDTree](https://github.com/scrooloose/nerdtree)
+* [ditto.vim](https://github.com/dbmrq/vim-ditto)
 * [fugitive.vim](https://github.com/tpope/vim-fugitive)
 * [goyo.vim](https://github.com/junegunn/goyo.vim)
 * [gruvbox](https://github.com/morhetz/gruvbox)
