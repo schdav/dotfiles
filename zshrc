@@ -2,6 +2,7 @@ ZSH_THEME="dracula"
 
 alias cat="bat"
 alias ls="exa -al"
+alias update="omz update"
 
 exitstatus() {
   if [[ $? == 0 ]]; then
