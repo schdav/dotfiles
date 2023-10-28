@@ -1,8 +1,9 @@
 ZSH_THEME="dracula"
 
-alias cat="bat"
+alias cat="bat --theme Dracula"
 alias ls="exa -al"
 alias update="omz update"
+alias backup="rsync -a --progress --stats"
 
 exitstatus() {
   if [[ $? == 0 ]]; then
