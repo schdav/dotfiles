@@ -8,7 +8,7 @@
 
 ## vimrc
 
-### Requirements
+### Requirements vimrc
 
 - [pathogen.vim](https://github.com/tpope/vim-pathogen)
 - [Powerline fonts](https://github.com/powerline/fonts)
@@ -21,11 +21,11 @@
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 
-### Installation
+### Installation vimrc
 
 Copy `vimrc` to `~/.vimrc`
 
-### Key mappings
+### Key mappings vimrc
 
 `,` and `x` remove trailing spaces
 
@@ -35,11 +35,11 @@ Copy `vimrc` to `~/.vimrc`
 
 ## bashrc
 
-### Prompt
+### Prompt bashrc
 
-`10:10:00 david@macbook:~ $ ✔ `
+`10:10:00 david@macbook:~ $ ✔`
 
-### Installation
+### Installation bashrc
 
 Copy `bashrc` to `~/.bashrc`
 
@@ -47,13 +47,13 @@ Copy `bash_profile` to `~/.bash_profile` (macOS only)
 
 ## zshrc
 
-### Requirements
+### Requirements zshrc
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Dracula](https://github.com/dracula/zsh)
 - [bat](https://github.com/sharkdp/bat)
 - [exa](https://github.com/ogham/exa)
 
-### Prompt
+### Prompt zshrc
 
-`10:10:00 david@macbook ~ ✔ `
+`10:10:00 david@macbook ~ ✔`
