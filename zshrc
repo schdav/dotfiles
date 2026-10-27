@@ -13,8 +13,10 @@ plugins=(gnu-utils)
 alias backup="rsync -a --progress --stats"
 alias cat="bat --theme Dracula"
 alias ls="eza -la"
+alias updatenpm="ncu -g -u"
 alias updatezsh="omz update"
 alias updatebrew="brew update && brew upgrade && brew autoremove && brew cleanup"
+alias updateall="updatenpm && updatezsh && updatebrew"
 alias shred="shred -u"
 
 exitstatus() {
